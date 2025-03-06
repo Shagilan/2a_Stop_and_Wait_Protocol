@@ -1,6 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
 NAME:SHAGILAN.U
-REG: 21224040313
+
+REG: 21224040303
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
